@@ -6,3 +6,4 @@
 #include "objects\square.h"
 #include "objects\triangle.h"
 #include "objects\mnl.h"
+#include "objects\color.h"

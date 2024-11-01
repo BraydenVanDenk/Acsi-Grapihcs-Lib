@@ -1,7 +1,7 @@
 #pragma once
 #include "includes.h"
 
-void square(int x, int y, std::string charecter) {
+void square(int x, int y, std::string charecter = "█") {
     int x_loop = 0;
     int y_loop = 0;
     std::string txt = charecter;

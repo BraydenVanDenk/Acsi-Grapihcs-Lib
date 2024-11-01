@@ -1,7 +1,7 @@
 #pragma once
 #include "includes.h"
 
-void triangle(int x, int y, std::string charecter) {
+void triangle(int x, int y, std::string charecter = "█") {
     int y_loop = 0;
     int x_loop = 0;
     std::string txt = charecter;
