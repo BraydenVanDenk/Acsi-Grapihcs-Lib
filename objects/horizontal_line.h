@@ -9,5 +9,5 @@ void line_horizontal(int x, std::string charecter = "█") {
         x_loop++;
     }
 
-    std::cout << txt;
+    std::cout << txt << '\n';
 }
