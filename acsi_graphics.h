@@ -8,3 +8,4 @@
 #include "objects\mnl.h"
 #include "objects\color.h"
 #include "objects\vert_line.h"
+#include "objects\clear.h"
